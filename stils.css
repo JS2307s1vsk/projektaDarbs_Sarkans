@@ -1,0 +1,12 @@
+.container {
+    background-color: antiquewhite;
+}
+
+hr {
+    display: flex;
+    height: 1px;
+    border: 1;
+    border-color: rgb(255, 140, 0);
+    margin: 1em 0;
+    padding: 1;
+}

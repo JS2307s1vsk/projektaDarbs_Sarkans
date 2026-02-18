@@ -1,5 +1,5 @@
 .container {
-    background-color: antiquewhite;
+    background-color: blanchedalmond;
 }
 
 hr {
@@ -20,3 +20,12 @@ hr {
     list-style-type: none;
     text-align: center;
   }
+
+  .kajene {
+    text-align: center;
+    color: rgba(160, 148, 148, 0.753)
+}
+
+body {
+  background-color: antiquewhite;
+}
